@@ -1,0 +1,1 @@
+me is generally written in uppercase letters. On Unix-like systems in particular this makes it easily noticed – both because lowercase filenames are more usual, and because traditionally the ls command sorts and displays files in ASCIIbetical ordering, so that uppercase filenames appear first.[nb 1]
